@@ -25,7 +25,7 @@
     ```
     # yum install zabbix-agent -y 
     ```
-5. Edit file /etc/zabbix/zabbix_agent.conf 
+5. Edit file /etc/zabbix/zabbix_agentd.conf 
     ```
     Server=203.78.103.9 
     ServerActive=203.78.103.9 
