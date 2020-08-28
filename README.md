@@ -43,7 +43,7 @@
    ```
 6. Download file get_server_for_zabbix.pl จะได้ไฟล์ get_server_for_zabbix.pl
    ```
-   # wget https://github.com/ezyadmin/connector_zabbix_agent/blob/master/roles/Install/files/get_server_for_zabbix.pl
+   # wget -O get_server_for_zabbix.pl https://github.com/ezyadmin/connector_zabbix_agent/blob/master/roles/Install/files/get_server_for_zabbix.pl
    ```
 7. run perl and restart zabbix-agent เพื่อใช้งาน
    ```
